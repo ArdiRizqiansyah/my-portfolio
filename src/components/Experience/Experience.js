@@ -20,7 +20,7 @@ function experience ()
                     <div className="card rounded-xl bg-base-200">
                       <div className="p-6">
                         <h5 className="font-bold text-lg mb-0">
-                          Progam Magang Web Developer MSIB Kemendikbud RI
+                          Magang Programmer MSIB Kemendikbud RI
                         </h5>
                         <p className="font-lights text-base mb-3">
                           Yayasan Hasnur Centre (Agu 2021 - Des 2021)
