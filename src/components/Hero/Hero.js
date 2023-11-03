@@ -8,7 +8,7 @@ function hero(){
           <img
             src="/my_photo.png"
             alt="ardi rizqiansyah"
-            className="max-w-sm rounded-full"
+            className="max-w-xs md:max-w-sm rounded-full"
           />
           <div>
             <p className="mb-4 lg:mb-0 text-lg">Hi 👋, saya</p>
@@ -36,7 +36,7 @@ function hero(){
               tantangan baru.
             </p>
             <a
-              href="/cv.pdf"
+              href="/cv_indonesia.pdf"
               target="_blank"
               rel="noreferrer"
               className="btn btn-info"

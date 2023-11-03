@@ -5,6 +5,20 @@ let i = 0;
 const initialProject = [
   {
     id: ++i,
+    name: "Guru Inovatif",
+    image: "/projects/gi_v3.png",
+    technology: "Laravel, Bootstrap, Tailwind CSS, Spatie",
+    link: "https://guruinovatif.id/",
+  },
+  {
+    id: ++i,
+    name: "BLK Kalimantan Selatan",
+    image: "/projects/blk_kalsel.png",
+    technology: "Laravel, Bootstrap, Sass, Spatie",
+    link: "#",
+  },
+  {
+    id: ++i,
     name: "SIPHA",
     image: "/projects/sipha.png",
     technology: "Laravel, Tailwind CSS, Spatie",

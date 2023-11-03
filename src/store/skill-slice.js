@@ -26,6 +26,12 @@ const skillSlice = createSlice({
       },
       {
         id: ++i,
+        name: "SASS",
+        image:
+          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+      },
+      {
+        id: ++i,
         name: "PHP",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg",
@@ -79,9 +85,27 @@ const skillSlice = createSlice({
       },
       {
         id: ++i,
+        name: "Node JS",
+        image:
+          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
+      },
+      {
+        id: ++i,
+        name: "Jest",
+        image:
+          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
+      },
+      {
+        id: ++i,
         name: "MySQL",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg",
+      },
+      {
+        id: ++i,
+        name: "PostgresSQL",
+        image:
+          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg",
       },
       {
         id: ++i,
