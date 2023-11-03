@@ -8,7 +8,7 @@ function hero(){
           <img
             src="/my_photo.png"
             alt="ardi rizqiansyah"
-            className="max-w-xs md:max-w-sm rounded-full"
+            className="w-60 md:max-w-sm rounded-full"
           />
           <div>
             <p className="mb-4 lg:mb-0 text-lg">Hi 👋, saya</p>
