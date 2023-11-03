@@ -56,7 +56,7 @@ const initialProject = [
     id: ++i,
     name: "Compre",
     image: "/projects/compre.png",
-    technology: "Laravel, Bootstrap, Jquery, Spatie",
+    technology: "Laravel, Bootstrap, Sass, Jquery, Spatie",
     link: "https://compre.id/",
   },
   {
