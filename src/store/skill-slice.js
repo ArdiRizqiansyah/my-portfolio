@@ -34,7 +34,7 @@ const skillSlice = createSlice({
         id: ++i,
         name: "PHP",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg",
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg",
       },
       {
         id: ++i,
@@ -46,13 +46,13 @@ const skillSlice = createSlice({
         id: ++i,
         name: "Bootstrap",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg",
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg",
       },
       {
         id: ++i,
         name: "Tailwind CSS",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
       },
       {
         id: ++i,
@@ -64,12 +64,13 @@ const skillSlice = createSlice({
         id: ++i,
         name: "Laravel",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg",
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg",
       },
       {
         id: ++i,
-        name: "Inertia Js",
-        image: "/skill/inertia.png",
+        name: "Golang",
+        image:
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
       },
       {
         id: ++i,
@@ -91,15 +92,9 @@ const skillSlice = createSlice({
       },
       {
         id: ++i,
-        name: "Jest",
-        image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg",
-      },
-      {
-        id: ++i,
         name: "MySQL",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg",
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg",
       },
       {
         id: ++i,
@@ -109,9 +104,9 @@ const skillSlice = createSlice({
       },
       {
         id: ++i,
-        name: "Firebase",
+        name: "Docker",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
       },
       {
         id: ++i,

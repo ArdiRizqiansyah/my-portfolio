@@ -16,7 +16,7 @@ function hero(){
               Ardi Rizqiansyah
             </h1>
             <h3 className="text-2xl md:text-3xl font-medium">
-              Full Stack Web Developer
+              Fullstack Web Developer
             </h3>
             {/* <p className="text-xl py-6">
               Saya seorang Full Stack Web Developer yang berfokus pada
@@ -36,7 +36,7 @@ function hero(){
               tantangan baru.
             </p>
             <a
-              href="/cv_indonesia.pdf"
+              href="/resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="btn btn-info"
