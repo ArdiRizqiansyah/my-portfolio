@@ -26,7 +26,7 @@ const skillSlice = createSlice({
       },
       {
         id: ++i,
-        name: "SASS",
+        name: "Sass",
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
       },
@@ -86,9 +86,9 @@ const skillSlice = createSlice({
       },
       {
         id: ++i,
-        name: "Node JS",
+        name: "Odoo",
         image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg",
+          "https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png",
       },
       {
         id: ++i,
