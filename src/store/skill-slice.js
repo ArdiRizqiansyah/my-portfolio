@@ -66,12 +66,12 @@ const skillSlice = createSlice({
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg",
       },
-      {
-        id: ++i,
-        name: "Golang",
-        image:
-          "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
-      },
+      // {
+      //   id: ++i,
+      //   name: "Golang",
+      //   image:
+      //     "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
+      // },
       {
         id: ++i,
         name: "React Js",
@@ -84,12 +84,12 @@ const skillSlice = createSlice({
         image:
           "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
       },
-      {
-        id: ++i,
-        name: "Odoo",
-        image:
-          "https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png",
-      },
+      // {
+      //   id: ++i,
+      //   name: "Odoo",
+      //   image:
+      //     "https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png",
+      // },
       {
         id: ++i,
         name: "MySQL",

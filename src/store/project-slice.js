@@ -87,20 +87,20 @@ const initialProject = [
     technology: "Laravel, Bootstrap, Jquery, Spatie",
     link: "https://drlidyaclinic.com",
   },
-  {
-    id: ++i,
-    name: "Purchase Addon (Odoo 14)",
-    image: "/projects/odoo_purchase_addon.png",
-    technology: "Odoo 14",
-    link: "https://github.com/ArdiRizqiansyah/odoo_autodidak_purchase",
-  },
-  {
-    id: ++i,
-    name: "Real Estate Ads (Odoo 16)",
-    image: "/projects/odoo_real_estate_ads.png",
-    technology: "Odoo 16",
-    link: "https://github.com/ArdiRizqiansyah/odoo_real_estate_ads",
-  },
+  // {
+  //   id: ++i,
+  //   name: "Purchase Addon (Odoo 14)",
+  //   image: "/projects/odoo_purchase_addon.png",
+  //   technology: "Odoo 14",
+  //   link: "https://github.com/ArdiRizqiansyah/odoo_autodidak_purchase",
+  // },
+  // {
+  //   id: ++i,
+  //   name: "Real Estate Ads (Odoo 16)",
+  //   image: "/projects/odoo_real_estate_ads.png",
+  //   technology: "Odoo 16",
+  //   link: "https://github.com/ArdiRizqiansyah/odoo_real_estate_ads",
+  // },
 ];
 
 const projectSlice = createSlice({
